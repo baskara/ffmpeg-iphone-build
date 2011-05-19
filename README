@@ -2,4 +2,4 @@
 Edit the installation path in install-libs.sh when necessary.
 Run ./build-all.sh to build everything.
 
-Had been tested on Xcode 4.01's iPad 4.3 Simulator and iPad 1. 
+Had been tested on Xcode 4.01's iPad Simulator and iPad 1 (iOS 4.3). 
